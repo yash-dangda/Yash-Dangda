@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash Dangda
 
-<!--
-**yash-dangda/Yash-Dangda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **DevOps | Kubernetes | Docker | Cloud Computing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🔭 Currently working on **Kubernetes & Docker projects**
+* 🌱 Learning **Helm, CI/CD, and Cloud (AWS/GCP)**
+* 💡 Interested in **DevOps automation & scalable systems**
+* ⚡ Love building and deploying real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+* **Containerization:** Docker 🐳
+* **Orchestration:** Kubernetes ☸️
+* **DevOps Tools:** Helm, Git, CI/CD
+* **Languages:** Python 🐍, Bash
+* **Cloud:** AWS (learning)
+
+---
+
+## 📂 Projects
+
+* 🔹 Kubernetes Static Website Deployment
+* 🔹 Docker Web App Demo
+* 🔹 Helm Chart Deployment
+
+---
+
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashDangda\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashDangda\&layout=compact\&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+* 📧 Email: [ydangda4@gmail.com](mailto:your-email@example.com)
+
+---
+
+## 🎯 Goals for 2026
+
+* Master Kubernetes & Helm
+* Build production-ready DevOps pipelines
+* Contribute to open-source projects
+
+---
+
+⭐ *“Automate everything, scale anything.”*
