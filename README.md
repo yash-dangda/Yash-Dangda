@@ -45,7 +45,7 @@
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/yash-dangda-258b33a3/)
+* 💼 LinkedIn: [https://www.linkedin.com/in/yash-dangda-258b33a3/](https://linkedin.com/in/YOUR_LINK)]
 * 📧 Email: [yash.dangda9@gmail.com](mailto:your-email@example.com)
 
 ---
