@@ -18,8 +18,8 @@
 * **Containerization:** Docker 🐳
 * **Orchestration:** Kubernetes ☸️
 * **DevOps Tools:** Helm, Git, CI/CD
-* **Languages:** Python 🐍, Bash
-* **Cloud:** AWS (learning)
+* **Languages:** Bash
+* **Cloud:** AWS 
 
 ---
 
@@ -46,7 +46,7 @@
 ## 🌐 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-* 📧 Email: [ydangda4@gmail.com](mailto:your-email@example.com)
+* 📧 Email: [yash.dangda9@gmail.com](mailto:your-email@example.com)
 
 ---
 
